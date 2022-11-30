@@ -1,0 +1,5 @@
+﻿  game.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Bryan\source\repos\Sudoku-Game\game.cpp(1034): warning C4715: 'Game::insertValue': not all control paths return a value
+  Sudoku-Game.vcxproj -> C:\Users\Bryan\source\repos\Sudoku-Game\x64\Debug\Sudoku-Game.exe
