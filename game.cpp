@@ -2,6 +2,8 @@
 
 #include "game.h"
 
+
+#define SIZE 10		//	Size of board, not using col 0 or row 9
 #define EMPTY 11	//	Value of 'empty' cell
 
 using namespace std;
